@@ -158,7 +158,10 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}   
+      {% if author.substack %}
+      <li><a href="{{ author.substack }}"><img src="{{ '/images/substack.svg' | relative_url }}" alt="Substack" style="width:1em;height:1em;margin-right: 0.7em;vertical-align: text-bottom;">Substack</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>

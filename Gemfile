@@ -11,3 +11,7 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+platforms :mingw, :mswin, :x64_mingw, :jruby do   # Windows/JRuby only
+  gem "tzinfo-data"
+end

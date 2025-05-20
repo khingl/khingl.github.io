@@ -15,3 +15,19 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+
+# Jekyll caches
+.jekyll-cache/
+.jekyll-metadata
+
+# Logs & env
+log/
+*.log
+.env
+
+# Editor/OS cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
