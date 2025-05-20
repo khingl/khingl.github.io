@@ -19,10 +19,11 @@ main:
     
   - title: "CV"
     new_tab: true
-    url: /files/cv.pdf/
+    url: /khingl/files/cv.pdf/
     
   - title: "Blog"
     url: https://hunchbox.substack.com
+    new_tab: true
   
   - title: "Links"
     url: /links/
