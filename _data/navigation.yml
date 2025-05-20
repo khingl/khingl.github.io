@@ -19,7 +19,7 @@ main:
     
   - title: "CV"
     new_tab: true
-    url: /khingl/files/cv.pdf/
+    url: /files/cv.pdf/
     
   - title: "Blog"
     url: https://hunchbox.substack.com
