@@ -16,7 +16,7 @@ redirect_from:
 
 Econ 385: International Economic Policy, *George Mason University* [Syllabus]({{ "/files/ECON 385 Syllabus Spring 2025.pdf" | relative_url}})
 
-ECO 383: Comparative Economic Systems, *Patrick Henry College* [Syllabus]({{ "/files/ECO383  Syllabus Spring 2025.pdf" | relative_url}})
+ECO 383: Comparative Economic Systems, *Patrick Henry College* [Syllabus]({{ "/files/ECO383 Syllabus Spring 2025.pdf" | relative_url}})
 
 **Fall 2024**
 
