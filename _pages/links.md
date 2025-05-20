@@ -13,5 +13,8 @@ redirect_from:
 
 **Links for Students**
 
+[EconGraphs.org](https://www.econgraphs.org/)
 
 **Other Links**
+
+[Liberal Education](https://www.smbc-comics.com/comic/liberal-education)
