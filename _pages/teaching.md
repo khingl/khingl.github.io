@@ -8,9 +8,12 @@ redirect_from:
   - /teaching.html
 ---
 
-"The bulk of the really important things that economics has to teach are things that people would see for themselves if they were willing to see. . ." ---Frank Knight (1951)
+My teaching philosophy is simple: I cannot make you learn, but I can show you what it looks like to *want* to learn. The world is bigger and more interesting than you currently think it is.
 
-*Contact me to learn more about my teaching or for specific assignment materials!*
+And the lens of economics let’s us see it a little bit bigger and a little more interesting.
+
+
+*The bulk of the really important things that economics has to teach are things that people would see for themselves if they were willing to see.* ---Frank Knight (1951)
 
 **Spring 2025**
 
