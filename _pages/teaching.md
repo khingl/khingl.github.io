@@ -8,10 +8,9 @@ redirect_from:
   - /teaching.html
 ---
 
-My teaching philosophy is simple: I cannot make you learn, but I can show you what it looks like to *want* to learn. The world is bigger and more interesting than you currently think it is.
+My teaching philosophy is simple: I cannot make you learn, but I can show you what it looks like to *want* to learn. 
 
-And the lens of economics let’s us see it a little bit bigger and a little more interesting.
-
+The world is bigger and more interesting than you currently think it is. And the lens of economics let’s us see it a little bit bigger and a little more interesting. Or as one great economist put it: 
 
 *The bulk of the really important things that economics has to teach are things that people would see for themselves if they were willing to see.* ---Frank Knight (1951)
 
