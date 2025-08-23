@@ -14,6 +14,10 @@ The world is bigger and more interesting than you currently think it is. And the
 
 *The bulk of the really important things that economics has to teach are things that people would see for themselves if they were willing to see.* ---Frank Knight (1951)
 
+**Fall 2025**
+
+ECO 333: Intermediate Microeconomics, *Patrick Henry College* [Syllabus]({{ "/files/ECO 333 Syllabus F25.pdf" | relative_url}})
+
 **Spring 2025**
 
 Econ 385: International Economic Policy, *George Mason University* [Syllabus]({{ "/files/ECON 385 Syllabus Spring 2025.pdf" | relative_url}})
