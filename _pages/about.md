@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student of Economics at George Mason University studying institutions, organizations, and the industrial organization of science. I am on the 2025-2026 acedemic job market!
+I am a PhD Student of Economics at George Mason University studying institutions, organizations, and the industrial organization of science. 
+
+I am on the 2025-2026 academic job market!
 
 **Positions**
 
