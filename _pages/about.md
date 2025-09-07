@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student of Economics at George Mason University studying institutions, organizations, and the industrial organization of science. 
+I am a PhD Student of Economics at George Mason University studying institutions, organizations, and the industrial organization of science. I am on the 2025-2026 acedemic job market!
 
 **Positions**
 
@@ -21,4 +21,4 @@ Graduate Fellow, F.A. Hayek Program for Advanced Study in PPE, *Mercatus Center*
 
 M.A. in Economics, *George Mason University*
 
-B.A. in Economics, Minors in Mathematics and Philosophy *Grove City College*
+B.A. in Economics, Minors in Mathematics and Philosophy, *Grove City College*
