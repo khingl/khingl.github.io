@@ -10,8 +10,6 @@ redirect_from:
 
 I study institutions, organizations, and the industrial organization of science. 
 
-Which means I basically just think about 3 papers from Ronald Coase, 2 papers from F.A. Hayek, and a comment by Richard Nelson.
-
 **Publications**
 
 "Organization as a Discovery Procedure" (with [Peter Boettke](https://www.peter-boettke.com/))<br>
