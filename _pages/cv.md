@@ -9,7 +9,7 @@ redirect_from:
   - /curriculumvitae 
 ---
 
-See my updated CV [here]({{ "/files/cv.pdf" | relative_url}}).
+See my updated CV [here]({{ "/files/Hingl_CV.pdf" | relative_url}}).
 
 
 
