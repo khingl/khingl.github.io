@@ -8,7 +8,12 @@ redirect_from:
   - /research.html
 ---
 
-I study institutions, organizations, and the industrial organization of science. 
+I study institutions and the industrial organization of science. 
+
+My primary research fields are industrial organization and political economy where I focus on topics in science and "idea production" more broadly, often using applied microeconomics. 
+
+My Job Market Paper is "The Prestige-Testability Tradeoff in Science." [pdf]({{ "/files/PTTS_latest.pdf" | relative_url}})
+
 
 **Publications**
 
@@ -22,8 +27,6 @@ I study institutions, organizations, and the industrial organization of science.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Review of Austrian Economics*, 2024. [doi](https://doi.org/10.1007/s11138-024-00659-x)
 
 **Works in Progress**
-
-"The Prestige-Testability Tradeoff in Science"
 
 "Private Innovation Policy: The Case of Platforms"
 

@@ -8,11 +8,9 @@ redirect_from:
   - /teaching.html
 ---
 
-My teaching philosophy is simple: I cannot make you learn, but I can show you what it looks like to *want* to learn. 
+I love sharing the economic way of thinking, and my teaching philosophy is simple: I cannot make you learn, but I can show you what it looks like to *want* to learn. 
 
-The world is bigger and more interesting than you currently think it is, and the lens of economics lets us see it a little bit bigger and a little more interesting. Or as one great economist put it: 
-
-*The bulk of the really important things that economics has to teach are things that people would see for themselves if they were willing to see.* ---Frank Knight (1951)
+The world is bigger and more interesting than you (and I) currently think it is, and the lens of economics lets us see it a little bit bigger and a little more interesting.
 
 **Fall 2025**
 
@@ -34,3 +32,11 @@ ECO 333: Intermediate Microeconomics, *Patrick Henry College* [Syllabus]({{ "/fi
 **Summer 2024**
 
 Econ 380: Economies in Transition, *Teaching Assistant to [Peter Boettke](https://www.peter-boettke.com/), George Mason University* [Syllabus](https://economics.gmu.edu/courses/econ380/course_sections/102428)
+
+**Students are saying...**
+
+"The instructor obviously has a passion for microeconomics, and it was contagious."
+
+"Professor Hingl was great and very engaging. I always looked forward to class time and especially enjoyed the practicums because they helped the ideas click better."
+
+"Professor Hingl brought an excitement and energy into the class that made the learning environment very fun to be a part of."
