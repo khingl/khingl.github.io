@@ -10,6 +10,8 @@ redirect_from:
 
 **Links for Students**
 
+[Good Advice...](https://www.avitalbalwit.com/post/the-advice-i-would-give-on-a-mentorship-call)
+
 [EconGraphs.org](https://www.econgraphs.org/)
 
 [The A to Z of Economics](https://www.economist.com/economics-a-to-z)

@@ -24,3 +24,11 @@ Graduate Fellow, F.A. Hayek Program for Advanced Study in PPE, *Mercatus Center*
 M.A. in Economics, *George Mason University*
 
 B.A. in Economics, Minors in Mathematics and Philosophy, *Grove City College*
+
+{% include fig.html
+   src="/images/paperlog.countssumstats.png"
+   alt="Contribution Count by Field"
+   caption="Scientific output doubles every ~18 years."
+   max_width="1200px" %}
+
+

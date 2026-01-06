@@ -1,0 +1,16 @@
+{% assign src = include.src | relative_url %}
+<figure class="mm-figure">
+  <a href="{{ src }}" class="mm-figure__link">
+    <img src="{{ src }}"
+         alt="{{ include.alt | default: '' }}"
+         class="mm-figure__img"
+         {% if include.max_width %}style="max-width: {{ include.max_width }};"{% endif %}>
+  </a>
+
+  {% if include.caption %}
+  <figcaption class="mm-figure__caption">
+    {% if include.label %}<span class="mm-figure__label">{{ include.label }}</span>{% endif %}
+    <span class="mm-figure__caption-text">{{ include.caption }}</span>
+  </figcaption>
+  {% endif %}
+</figure>

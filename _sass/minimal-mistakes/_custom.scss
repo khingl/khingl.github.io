@@ -1,0 +1,12 @@
+figure.mm-figure { margin: 1.5em auto; }
+
+figure.mm-figure > figcaption.mm-figure__caption {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  color: #555;
+}
+
+figure.mm-figure .mm-figure__label { font-weight: 600; margin-right: 0.25em; }
