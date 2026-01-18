@@ -28,3 +28,8 @@ main:
   - title: "Links"
     url: /links/
     
+    main:
+  - title: "Price Theory Palooza"
+    url: "http://kurtishingl.com/pricetheorypalooza/"
+    new_tab: true
+
