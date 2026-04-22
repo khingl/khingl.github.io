@@ -14,6 +14,8 @@ My primary research fields are industrial organization and political economy whe
 
 My Job Market Paper is "The Prestige-Testability Tradeoff in Science." [pdf]({{ "/files/PTTS_latest.pdf" | relative_url}})
 
+<img src="{{ '/images/pooled_scatter_1960_2015.png' | relative_url }}" alt="Testability and the concentration of citations among authors, pooled 1960–2015" width="80%">
+
 
 **Publications**
 
