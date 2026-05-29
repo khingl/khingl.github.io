@@ -14,24 +14,24 @@ The world is bigger and more interesting than you (and I) currently think it is,
 
 **Fall 2025**
 
-ECO 333: Intermediate Microeconomics, *Patrick Henry College* [Syllabus]({{ "/files/ECO 333 Syllabus F25.pdf" | relative_url}})
+ECO 333: Intermediate Microeconomics, *Patrick Henry College* [\[syl\]]({{ "/files/ECO 333 Syllabus F25.pdf" | relative_url}})
 
 **Spring 2025**
 
-Econ 385: International Economic Policy, *George Mason University* [Syllabus]({{ "/files/ECON 385 Syllabus Spring 2025.pdf" | relative_url}})
+Econ 385: International Economic Policy, *George Mason University* [\[syl\]]({{ "/files/ECON 385 Syllabus Spring 2025.pdf" | relative_url}})
 
-ECO 383: Comparative Economic Systems, *Patrick Henry College* [Syllabus]({{ "/files/ECO383 Syllabus Spring 2025.pdf" | relative_url}})
+ECO 383: Comparative Economic Systems, *Patrick Henry College* [\[syl\]]({{ "/files/ECO383 Syllabus Spring 2025.pdf" | relative_url}})
 
 **Fall 2024**
 
-Econ 385: International Economic Policy, *George Mason University* [Syllabus]({{ "/files/ECON 385 Syllabus Fall 2024.pdf" | relative_url}})
+Econ 385: International Economic Policy, *George Mason University* [\[syl\]]({{ "/files/ECON 385 Syllabus Fall 2024.pdf" | relative_url}})
 
-ECO 333: Intermediate Microeconomics, *Patrick Henry College* [Syllabus]({{ "/files/ECO333 Syllabus Fall 2024.pdf" | relative_url}})
+ECO 333: Intermediate Microeconomics, *Patrick Henry College* [\[syl\]]({{ "/files/ECO333 Syllabus Fall 2024.pdf" | relative_url}})
 
 
 **Summer 2024**
 
-Econ 380: Economies in Transition, *Teaching Assistant to [Peter Boettke](https://www.peter-boettke.com/), George Mason University* [Syllabus](https://economics.gmu.edu/courses/econ380/course_sections/102428)
+Econ 380: Economies in Transition, *Teaching Assistant to [Pete Boettke](https://www.peter-boettke.com/), George Mason University* [\[syl\]](https://economics.gmu.edu/courses/econ380/course_sections/102428)
 
 **Students are saying...**
 

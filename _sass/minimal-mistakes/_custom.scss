@@ -10,3 +10,22 @@ figure.mm-figure > figcaption.mm-figure__caption {
 }
 
 figure.mm-figure .mm-figure__label { font-weight: 600; margin-right: 0.25em; }
+
+/* Side-caption variant: image left, caption wrapped in right column */
+figure.mm-figure.mm-figure--side {
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 1.5em;
+}
+figure.mm-figure.mm-figure--side > .mm-figure__link {
+  flex: 0 0 auto;
+  max-width: 66%;
+  margin-bottom: 0;
+}
+figure.mm-figure.mm-figure--side > figcaption.mm-figure__caption {
+  width: auto;
+  flex: 1 1 0;
+  display: block;
+  text-align: right;
+  margin-top: 0;
+}

@@ -23,9 +23,9 @@ repository               : "khingl/khingl.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Kurtis A. Hingl"
-  pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Candidate"
+  name             : "Kurtis A. Hingl"
+  pronouns         : # example: "she/her"
+  bio              : "Economics of Science<br>Institutions"
   location         : "Fairfax, VA"
   employer         : "George Mason University"
   uri              : #"https://economics.gmu.edu/"

@@ -8,28 +8,22 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Research"
-    url: /research/    
-    
+    url: /research/
+
   - title: "CV"
     new_tab: true
     url: /files/Hingl_CV.pdf
-    
+
   - title: "Blog"
     url: https://hunchbox.substack.com
     new_tab: true
-  
-  - title: "Links"
-    url: /links/
-    
-    main:
-  - title: "Price Theory Palooza"
-    url: "http://kurtishingl.com/pricetheorypalooza/"
-    new_tab: true
 
+  - title: "Other"
+    url: /other/
