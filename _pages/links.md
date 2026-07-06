@@ -18,6 +18,8 @@ redirect_from:
 
 [Concise Encyclopedia of Economics](https://www.econlib.org/cee/)
 
+[Marginal Revolution University](https://mru.org/)
+
 **Other Links**
 
 [Liberal Education](https://www.smbc-comics.com/comic/liberal-education)
