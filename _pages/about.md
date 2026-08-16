@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Teaching Assistant Professor in the [John Chambers College of Business and Economics](https://business.wvu.edu/) at West Virginia University, and an affiliate of the [Kendrick Center for an Ethical Economy](https://business.wvu.edu/research-outreach/kendrick-center-for-an-ethical-economy).
+I am an Teaching Assistant Professor in the [John Chambers College of Business and Economics](https://business.wvu.edu/) at West Virginia University, and an affiliate of the [Kendrick Center for an Ethical Economy](https://business.wvu.edu/research-outreach/kendrick-center-for-an-ethical-economy).
 
 I study institutions and the industrial organization of science.
 
